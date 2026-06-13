@@ -30,6 +30,9 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
+### Link of the Project Plan 
+https://quilt-foundation-fd6.notion.site/Data-Warehouse-Project-37c2af076f0f80f28717da2de20dc523?source=copy_link
+
 ### License
 
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
