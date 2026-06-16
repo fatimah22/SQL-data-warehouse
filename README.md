@@ -37,3 +37,14 @@ https://quilt-foundation-fd6.notion.site/Data-Warehouse-Project-37c2af076f0f80f2
 
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
+---
+
+## About the Analyst
+
+Hi, I'm **Fatimah Bin Awdhah**, a Data Analyst with engineering background. 
+I specialize in Power BI dashboards, data cleaning, and turning business data into clear, actionable insights.
+
+- 🌐 Portfolio: [fatimah-data-portfolio.netlify.app](https://fatimah-data-portfolio.netlify.app/)
+- 💼 LinkedIn: [linkedin.com/in/fatimah-alodah](https://www.linkedin.com/in/fatimah-alodah)
+- 📧 Contact: feel free to connect with me on LinkedIn
+
