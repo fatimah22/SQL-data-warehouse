@@ -2,7 +2,7 @@
 -- Advanced Analytics project
 --=======================================================
 -- go through these analysis types based on requirements 
--- 1) Change over time - trend analsyis
+-- 1) Change over time / trend analsyis
 -- 2) Comulative Analysis
 -- 3) Performance Analysis
 -- 4) Part to Whole Analysis
